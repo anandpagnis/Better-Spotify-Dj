@@ -1,3 +1,7 @@
+[This project has been abandoned due to changes in the Spotify API.]
+
+
+
 Requirements:
 
 1)Get your Client ID and Client secret from https://developer.spotify.com/ 
